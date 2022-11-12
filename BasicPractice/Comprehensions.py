@@ -20,11 +20,11 @@
 # print(tuple(x))
 
 
-# sentence = "Hello my name is warid"
-# sett = set(sentence)
-# print(sett)
-# x = {char: sentence.count(char) for char in set(sentence)}
-# print(x)
+sentence = "Hello my name is warid"
+sett = set(sentence)
+print(sett)
+x = {char: sentence.count(char) for char in set(sentence)}
+print(x)
 
 
 
