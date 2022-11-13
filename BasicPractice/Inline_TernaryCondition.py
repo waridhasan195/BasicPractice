@@ -1,4 +1,7 @@
 
+
+# x = 'A' if 2>3 else 'B'
+# print(x)
 # x = 1 if 2 > 3 else 0
 # print(x)
 
@@ -9,7 +12,7 @@
 
 
 # Program to demonstrate conditional operator
-a, b = 30, 20
+a, b = 30, 40
 # If a is less than b, then a is assigned
 # else b is assigned (Note : it doesn't
 # work if a is 0.
